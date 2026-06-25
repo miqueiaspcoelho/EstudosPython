@@ -46,4 +46,4 @@ def count_ip(init_ip, end_ip):
 a = '192.168.0.1' #3232235521
 b = '192.168.1.100'
 c = count_ip(a,b)
-print(c)
+print(c) 
